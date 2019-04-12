@@ -1,5 +1,8 @@
 _repo: Scarabs-An-Introduction-to-the-Study-of-Egyptian-Seals-and-Signet-Rings_59233
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59233-h/images/cover.jpg
 creator:
   author:
     agent_name: Newberry, Percy E. (Percy Edward)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47861'
     url: http://www.gutenberg.org/2009/agents/47861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59233#Scarabs-An-Introduction-to-the-Study-of-Egyptian-Seals-and-Signet-Rings
 gutenberg_issued: '2019-04-09'
 gutenberg_type: Text
 identifiers:
